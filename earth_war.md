@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
         </tr>
         <tr>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
         </tr>
       </tbody>
 </table>
