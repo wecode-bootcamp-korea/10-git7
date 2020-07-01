@@ -1,14 +1,14 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>박민규</td>
+          <td>박민규</td>
+          <td>박민규</td>
+          <td>박민규</td>
+          <td>박민규</td>
         </tr>
         <tr>
-          <td>이름</td>
+          <td>박민규</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
