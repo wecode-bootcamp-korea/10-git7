@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
+  	<td>박민규</td>
+	<td>박민규</td>
+	<td>박민규</td>
+	<td>박민규</td>
+	<td>박민규</td>
         </tr>
         <tr>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
-          <td>손수정</td>
+          <td>박민규</td>
+          <td>박민규</td>
+          <td>박민규</td>
+          <td>박민규</td>
+          <td>박민규</td>
         </tr>
       </tbody>
 </table>
