@@ -1,6 +1,3 @@
-<table>
-      <tbody>
-        <tr>
           <td>황수미</td>
           <td>황수미</td>
           <td>황수미</td>
