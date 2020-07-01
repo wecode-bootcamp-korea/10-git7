@@ -1,26 +1,18 @@
 <table>
       <tbody>
         <tr>
-<<<<<<< HEAD
           <td>황수미</td>
           <td>황수미</td>
           <td>황수미</td>
           <td>황수미</td>
           <td>황수미</td>
-=======
-          <td>황수미</td>
-          <td>황수미</td>
-          <td>황수미</td>
-          <td>황수미</td>
-          <td>황수미</td>
->>>>>>> 9752ea0011539b441aa8e5dd3b343617e9848c72
         </tr>
-        <tr>
+	<tr>
+	  <td>황수미</td>
           <td>황수미</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
         </tr>
       </tbody>
 </table>
