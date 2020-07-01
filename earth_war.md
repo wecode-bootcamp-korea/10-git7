@@ -2,17 +2,17 @@
       <tbody>
         <tr>
           <td>최운정</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
+          <td>최운정</td>
         </tr>
       </tbody>
 </table>
