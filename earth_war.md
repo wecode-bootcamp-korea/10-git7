@@ -1,18 +1,15 @@
-<table>
-      <tbody>
-        <tr>
-          <td>최운정</td>
-          <td>최운정</td>
-          <td>최운정</td>
-          <td>최운정</td>
-          <td>최운정</td>
+          <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
         </tr>
-        <tr>
-          <td>최운정</td>
-          <td>최운정</td>
-          <td>최운정</td>
-          <td>최운정</td>
-          <td>최운정</td>
+	<tr>
+	  <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
+          <td>황수미</td>
         </tr>
       </tbody>
 </table>
